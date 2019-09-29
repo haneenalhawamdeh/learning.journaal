@@ -1,3 +1,11 @@
+ # ***growth mindset***
+## what that is mean?
+**it look like that you thinking in apositive way to couninue in what you do 
+ikeep myself in growth mindsit by
+remembaring my self that**
+- i can be good at anythings
+- i try until i do it 
+- i will keep going until i solve it 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/haneenalhawamdeh/learning.journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
