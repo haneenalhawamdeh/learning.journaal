@@ -9,5 +9,5 @@ remembaring my self that**
 
 #### there is some things can help u ,check this link 
 
-(https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+[](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
 
