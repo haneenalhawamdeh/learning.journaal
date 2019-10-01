@@ -7,8 +7,11 @@ remembaring my self that**
 - i try until i do it 
 - i will keep going until i solve it 
 
-### there is some things can help u ,check this link 
+### there is some things can help u , check this link 
 
-[] (https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
-
+***name of file ***     ***linke***
+growth  mindset     
+learning markdown
+git
 # the end
+# haneen
