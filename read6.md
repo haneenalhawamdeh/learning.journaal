@@ -7,19 +7,6 @@
 2.	Get the CSS and images for this example from the website that accompanies the book: www.javascriptbook (Links to an external site.). com To keep the files organized, in the same way that CSS files often live in a folder called styles or css, your JavaScript files can live in a folder called scripts,javascript,orjs. In this case, save your file in a folder called j s
 3.	In your code editor, enter the HTML shown on the left. Save this file with the name add-content.html The HTML <script> element is used to load the JavaScript file into the page. It has an attribute called src, whose value is the path to the script you created. This tells the browser to find and load the script file (just like the src attribute on an tag)
 •	Open the HTML file in your browser. You should see that the JavaScript has added a greeting (in this case, Good Afternoon!) to the page. (These greetings are coming from the JavaScript file; they are not in the HTML file.)
-•	Java script example
-1.	 <html>  
-<head>  
-<script type="text/javascript">  
-function msg(){  
- alert("Hello Javatpoint");  
-}  
-</script>  
-</head>  
-<body>  
-<p>Welcome to JavaScript</p>  
-<form>  
-<input type="button" value="click" onclick="msg()"/>  
-</form>  
-</body>  
-</html>  
+## THE SOURCE CODE IS NOT AMENDED 
+If you look at the source code for the example you just created, you will see that the HTML is still exactly the same. 
+Show 
